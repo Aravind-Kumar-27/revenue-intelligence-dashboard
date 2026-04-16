@@ -10,6 +10,18 @@ This project demonstrates the ability to convert raw sales data into a **high-im
 
 ---
 
+## 🖼 Dashboard Preview
+
+<p align="center">
+  <img src="revenue-intelligence-dashboard-img.png" width="900" alt="Dashboard Preview"/>
+</p>
+
+<p align="center">
+  <em>Global wealth distribution, industry trends, and regional insights</em>
+</p>
+
+---
+
 ## 🧩 Project Overview
 
 The **Revenue Intelligence Dashboard** provides a 360° view of business performance by integrating key revenue metrics, customer insights, and product analytics into a single, intuitive interface.
@@ -137,10 +149,8 @@ ________________________________________
 | sales-data.xlsx | Dataset |
 | README.md | Project documentation |
 | images/dashboard-preview.png | Dashboard screenshot |
-________________________________________
-🖼 Dashboard Preview
- 
 
+---
 ________________________________________
 ## 👨‍💻 Author
 
