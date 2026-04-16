@@ -87,14 +87,14 @@ ________________________________________
 •	👥 Customer segmentation & cohort analysis
 •	☁ Deployment via Power BI Service
 ________________________________________
-📂 Project Structure
-revenue-intelligence-dashboard/
-│
-├── revenue-intelligence-dashboard.pbix
-├── sales-data.xlsx
-├── README.md
-└── images/
-    └── dashboard-preview.png
+## 📂 Project Structure
+
+| File/Folder | Description |
+|------------|------------|
+| revenue-intelligence-dashboard.pbix | Power BI Dashboard |
+| sales-data.xlsx | Dataset |
+| README.md | Project documentation |
+| images/dashboard-preview.png | Dashboard screenshot |
 ________________________________________
 🖼 Dashboard Preview
  
@@ -107,7 +107,7 @@ Data Analyst | Power BI Developer
 📈 Skilled in Power BI, DAX, and Business Intelligence
 🚀 Focused on solving real-world business problems using data
 🔗 GitHub: https://github.com/Aravind-Kumar-27
-🔗 LinkedIn: linkedin.com/in/r-aravind-kumar
+🔗 LinkedIn: [Aravind Kumar](https://linkedin.com/in/r-aravind-kumar)
 📧 Email: r.aravindkumar27@gmail.com
 ________________________________________
 ⭐ If you found this project useful
