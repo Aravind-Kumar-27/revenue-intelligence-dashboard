@@ -100,15 +100,20 @@ ________________________________________
  
 
 ________________________________________
-👨‍💻 Author
-Aravind Kumar R
-Data Analyst | Power BI Developer
-📊 Passionate about transforming data into actionable insights
-📈 Skilled in Power BI, DAX, and Business Intelligence
-🚀 Focused on solving real-world business problems using data
-🔗 GitHub: https://github.com/Aravind-Kumar-27
-🔗 LinkedIn: [Aravind Kumar](https://linkedin.com/in/r-aravind-kumar)
-📧 Email: r.aravindkumar27@gmail.com
+## 👨‍💻 Author
+
+**Aravind Kumar R**  
+*Data Analyst | Power BI Developer*  
+
+📊 Passionate about transforming data into actionable insights  
+📈 Skilled in Power BI, DAX, and Business Intelligence  
+🚀 Focused on solving real-world business problems using data  
+
+---
+
+🔗 **GitHub**: https://github.com/Aravind-Kumar-27  
+🔗 **LinkedIn**: [Aravind Kumar](https://linkedin.com/in/r-aravind-kumar)  
+📧 **Email**: r.aravindkumar27@gmail.com  
 ________________________________________
 ⭐ If you found this project useful
 Give it a ⭐ on GitHub and feel free to connect!
