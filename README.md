@@ -13,11 +13,11 @@ This project demonstrates the ability to convert raw sales data into a **high-im
 ## 🖼 Dashboard Preview
 
 <p align="center">
-  <img src="revenue-intelligence-dashboard-img.png" width="900" alt="Dashboard Preview"/>
+  <img src="revenue-intelligence-dashboard-img.png" width="900" alt="Revenue Dashboard Preview"/>
 </p>
 
 <p align="center">
-  <em>Global wealth distribution, industry trends, and regional insights</em>
+  <em>Interactive dashboard showcasing revenue growth, profit trends, top products, and regional performance insights</em>
 </p>
 
 ---
@@ -148,7 +148,7 @@ ________________________________________
 | revenue-intelligence-dashboard.pbix | Power BI Dashboard |
 | sales-data.xlsx | Dataset |
 | README.md | Project documentation |
-| images/dashboard-preview.png | Dashboard screenshot |
+| revenue-intelligence-dashboard-img.png | Dashboard screenshot |
 
 ---
 ________________________________________
